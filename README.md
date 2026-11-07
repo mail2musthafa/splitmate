@@ -1,6 +1,4 @@
-from pathlib import Path
 
-readme = r"""# Splitmate
 
 **Share expenses. Stay balanced.**
 
