@@ -1,0 +1,10 @@
+{
+  "Brand":{"name":"Splitmate","tagline":"Gemeinsames Geld. Einfacher."},
+  "Navigation":{"overview":"Übersicht","groups":"Gruppen & Reisen","expenses":"Ausgaben","balances":"Salden","settlements":"Abrechnungen","activity":"Aktivität","insights":"Einblicke","profile":"Mein Profil"},
+  "Common":{"save":"Speichern","cancel":"Abbrechen","edit":"Bearbeiten","delete":"Löschen","search":"Suchen","loading":"Wird geladen...","error":"Ein Fehler ist aufgetreten","retry":"Erneut versuchen","add":"Hinzufügen","close":"Schließen"},
+  "Dashboard":{"welcome":"Gemeinsam besser mit Geld umgehen.","subtitle":"Das passiert bei euren gemeinsamen Ausgaben.","netBalance":"Nettosaldo","totalSpending":"Gesamtausgaben","youPaid":"Von dir bezahlt","yourShare":"Dein Anteil","recentExpenses":"Letzte Ausgaben","yourGroups":"Deine Gruppen","transactions":"Transaktionen"},
+  "Groups":{"title":"Gruppen & Reisen","create":"Gruppe erstellen","members":"Gruppenmitglieder","destination":"Ziel oder Ort","description":"Gruppenbeschreibung"},
+  "Expenses":{"title":"Ausgaben","add":"Ausgabe hinzufügen","payer":"Bezahlt von","participants":"Teilnehmende","amount":"Betrag","category":"Kategorie","date":"Datum"},
+  "Insights":{"title":"Finanzielle Einblicke","distribution":"Ausgabenverteilung","groupSpending":"Gruppenausgaben","trend":"Ausgabentrend","outlook":"Monatliche Prognose"},
+  "Profile":{"title":"Mein Profil","edit":"Profil bearbeiten","country":"Land","language":"Sprache","currency":"Bevorzugte Währung","timezone":"Zeitzone","email":"E-Mail-Adresse","phone":"Mobilnummer"}
+}

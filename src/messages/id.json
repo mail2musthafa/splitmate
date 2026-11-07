@@ -1,0 +1,10 @@
+{
+  "Brand":{"name":"Splitmate","tagline":"Uang bersama. Lebih sederhana."},
+  "Navigation":{"overview":"Ringkasan","groups":"Grup & Perjalanan","expenses":"Pengeluaran","balances":"Saldo","settlements":"Penyelesaian","activity":"Aktivitas","insights":"Analisis","profile":"Profil Saya"},
+  "Common":{"save":"Simpan","cancel":"Batal","edit":"Edit","delete":"Hapus","search":"Cari","loading":"Memuat...","error":"Terjadi kesalahan","retry":"Coba lagi","add":"Tambah","close":"Tutup"},
+  "Dashboard":{"welcome":"Uang bersama, lebih mudah dikelola.","subtitle":"Lihat aktivitas pengeluaran bersama Anda.","netBalance":"Saldo bersih","totalSpending":"Total pengeluaran","youPaid":"Anda membayar","yourShare":"Bagian Anda","recentExpenses":"Pengeluaran terbaru","yourGroups":"Grup Anda","transactions":"Transaksi"},
+  "Groups":{"title":"Grup & Perjalanan","create":"Buat grup","members":"Anggota grup","destination":"Tujuan atau lokasi","description":"Deskripsi grup"},
+  "Expenses":{"title":"Pengeluaran","add":"Tambah pengeluaran","payer":"Dibayar oleh","participants":"Peserta","amount":"Jumlah","category":"Kategori","date":"Tanggal"},
+  "Insights":{"title":"Wawasan Keuangan","distribution":"Distribusi pengeluaran","groupSpending":"Pengeluaran grup","trend":"Tren pengeluaran","outlook":"Perkiraan bulanan"},
+  "Profile":{"title":"Profil Saya","edit":"Edit profil","country":"Negara","language":"Bahasa","currency":"Mata uang pilihan","timezone":"Zona waktu","email":"Alamat email","phone":"Nomor ponsel"}
+}

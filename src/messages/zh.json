@@ -1,0 +1,10 @@
+{
+  "Brand":{"name":"Splitmate","tagline":"共享资金，轻松管理。"},
+  "Navigation":{"overview":"总览","groups":"群组与旅行","expenses":"支出","balances":"余额","settlements":"结算","activity":"动态","insights":"分析","profile":"个人资料"},
+  "Common":{"save":"保存","cancel":"取消","edit":"编辑","delete":"删除","search":"搜索","loading":"加载中...","error":"发生错误","retry":"重试","add":"添加","close":"关闭"},
+  "Dashboard":{"welcome":"共享资金，管理更轻松。","subtitle":"查看你们的共同支出情况。","netBalance":"净余额","totalSpending":"总支出","youPaid":"你已支付","yourShare":"你的份额","recentExpenses":"最近支出","yourGroups":"你的群组","transactions":"交易"},
+  "Groups":{"title":"群组与旅行","create":"创建群组","members":"群组成员","destination":"目的地或地点","description":"群组描述"},
+  "Expenses":{"title":"支出","add":"添加支出","payer":"付款人","participants":"参与者","amount":"金额","category":"类别","date":"日期"},
+  "Insights":{"title":"财务分析","distribution":"支出分布","groupSpending":"群组支出","trend":"支出趋势","outlook":"月度支出预测"},
+  "Profile":{"title":"个人资料","edit":"编辑资料","country":"国家","language":"语言","currency":"首选货币","timezone":"时区","email":"电子邮箱","phone":"手机号码"}
+}

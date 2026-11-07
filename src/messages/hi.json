@@ -1,0 +1,10 @@
+{
+  "Brand": {"name":"स्प्लिटमेट","tagline":"साझा पैसा। आसान प्रबंधन।"},
+  "Navigation":{"overview":"अवलोकन","groups":"समूह और यात्राएँ","expenses":"खर्चे","balances":"बकाया राशि","settlements":"भुगतान निपटान","activity":"गतिविधि","insights":"वित्तीय जानकारी","profile":"मेरी प्रोफ़ाइल"},
+  "Common":{"save":"सहेजें","cancel":"रद्द करें","edit":"संपादित करें","delete":"हटाएँ","search":"खोजें","loading":"लोड हो रहा है...","error":"कुछ गलत हुआ","retry":"पुनः प्रयास करें","add":"जोड़ें","close":"बंद करें"},
+  "Dashboard":{"welcome":"आपका पैसा, बेहतर साथ के साथ।","subtitle":"आपके साझा खर्चों का विवरण।","netBalance":"आपका शुद्ध बैलेंस","totalSpending":"कुल खर्च","youPaid":"आपने भुगतान किया","yourShare":"आपका हिस्सा","recentExpenses":"हाल के खर्चे","yourGroups":"आपके समूह","transactions":"लेन-देन"},
+  "Groups":{"title":"समूह और यात्राएँ","create":"समूह बनाएँ","members":"समूह के सदस्य","destination":"स्थान","description":"समूह विवरण"},
+  "Expenses":{"title":"खर्चे","add":"खर्च जोड़ें","payer":"भुगतानकर्ता","participants":"प्रतिभागी","amount":"राशि","category":"श्रेणी","date":"तारीख"},
+  "Insights":{"title":"वित्तीय जानकारी","distribution":"खर्च का वितरण","groupSpending":"समूह का खर्च","trend":"खर्च का रुझान","outlook":"मासिक खर्च का अनुमान"},
+  "Profile":{"title":"मेरी प्रोफ़ाइल","edit":"प्रोफ़ाइल संपादित करें","country":"देश","language":"भाषा","currency":"पसंदीदा मुद्रा","timezone":"समय क्षेत्र","email":"ईमेल पता","phone":"मोबाइल नंबर"}
+}

@@ -1,0 +1,72 @@
+{
+  "Brand": {
+    "name": "Splitmate",
+    "tagline": "Shared money. Simplified."
+  },
+  "Navigation": {
+    "overview": "Overview",
+    "groups": "Groups & Trips",
+    "expenses": "Expenses",
+    "balances": "Balances",
+    "settlements": "Settlements",
+    "activity": "Activity",
+    "insights": "Insights",
+    "profile": "My Profile"
+  },
+  "Common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "search": "Search",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try again",
+    "add": "Add",
+    "close": "Close"
+  },
+  "Dashboard": {
+    "welcome": "Your money, in good company.",
+    "subtitle": "Here's what's happening across your shared expenses.",
+    "netBalance": "Your net balance",
+    "totalSpending": "Total spending",
+    "youPaid": "You paid",
+    "yourShare": "Your share",
+    "recentExpenses": "Recent expenses",
+    "yourGroups": "Your groups",
+    "transactions": "Transactions"
+  },
+  "Groups": {
+    "title": "Groups & Trips",
+    "create": "Create group",
+    "members": "Group members",
+    "destination": "Destination or location",
+    "description": "Group description"
+  },
+  "Expenses": {
+    "title": "Expenses",
+    "add": "Add expense",
+    "payer": "Paid by",
+    "participants": "Participants",
+    "amount": "Amount",
+    "category": "Category",
+    "date": "Date"
+  },
+  "Insights": {
+    "title": "Financial Insights",
+    "distribution": "Spending distribution",
+    "groupSpending": "Group spending",
+    "trend": "Spending trend",
+    "outlook": "Monthly spending outlook"
+  },
+  "Profile": {
+    "title": "My Profile",
+    "edit": "Edit profile",
+    "country": "Country",
+    "language": "Language",
+    "currency": "Preferred currency",
+    "timezone": "Timezone",
+    "email": "Email address",
+    "phone": "Mobile number"
+  }
+}

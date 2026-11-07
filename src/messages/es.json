@@ -1,0 +1,10 @@
+{
+  "Brand":{"name":"Splitmate","tagline":"Dinero compartido. Más sencillo."},
+  "Navigation":{"overview":"Resumen","groups":"Grupos y viajes","expenses":"Gastos","balances":"Balances","settlements":"Liquidaciones","activity":"Actividad","insights":"Análisis","profile":"Mi perfil"},
+  "Common":{"save":"Guardar","cancel":"Cancelar","edit":"Editar","delete":"Eliminar","search":"Buscar","loading":"Cargando...","error":"Algo salió mal","retry":"Reintentar","add":"Añadir","close":"Cerrar"},
+  "Dashboard":{"welcome":"Tu dinero, mejor acompañado.","subtitle":"Esto es lo que ocurre con tus gastos compartidos.","netBalance":"Balance neto","totalSpending":"Gasto total","youPaid":"Has pagado","yourShare":"Tu parte","recentExpenses":"Gastos recientes","yourGroups":"Tus grupos","transactions":"Transacciones"},
+  "Groups":{"title":"Grupos y viajes","create":"Crear grupo","members":"Miembros del grupo","destination":"Destino o ubicación","description":"Descripción del grupo"},
+  "Expenses":{"title":"Gastos","add":"Añadir gasto","payer":"Pagado por","participants":"Participantes","amount":"Importe","category":"Categoría","date":"Fecha"},
+  "Insights":{"title":"Análisis financiero","distribution":"Distribución de gastos","groupSpending":"Gastos del grupo","trend":"Tendencia de gastos","outlook":"Previsión mensual"},
+  "Profile":{"title":"Mi perfil","edit":"Editar perfil","country":"País","language":"Idioma","currency":"Moneda preferida","timezone":"Zona horaria","email":"Correo electrónico","phone":"Número de móvil"}
+}

@@ -1,0 +1,10 @@
+{
+  "Brand":{"name":"سبليت ميت","tagline":"المال المشترك. أصبح أسهل."},
+  "Navigation":{"overview":"نظرة عامة","groups":"المجموعات والرحلات","expenses":"المصروفات","balances":"الأرصدة","settlements":"التسويات","activity":"النشاط","insights":"التحليلات","profile":"ملفي الشخصي"},
+  "Common":{"save":"حفظ","cancel":"إلغاء","edit":"تعديل","delete":"حذف","search":"بحث","loading":"جارٍ التحميل...","error":"حدث خطأ ما","retry":"إعادة المحاولة","add":"إضافة","close":"إغلاق"},
+  "Dashboard":{"welcome":"أموالك، معًا بشكل أفضل.","subtitle":"إليك ملخص مصروفاتك المشتركة.","netBalance":"صافي رصيدك","totalSpending":"إجمالي الإنفاق","youPaid":"ما دفعته","yourShare":"حصتك","recentExpenses":"المصروفات الأخيرة","yourGroups":"مجموعاتك","transactions":"المعاملات"},
+  "Groups":{"title":"المجموعات والرحلات","create":"إنشاء مجموعة","members":"أعضاء المجموعة","destination":"الوجهة أو الموقع","description":"وصف المجموعة"},
+  "Expenses":{"title":"المصروفات","add":"إضافة مصروف","payer":"دفع بواسطة","participants":"المشاركون","amount":"المبلغ","category":"الفئة","date":"التاريخ"},
+  "Insights":{"title":"التحليلات المالية","distribution":"توزيع الإنفاق","groupSpending":"إنفاق المجموعة","trend":"اتجاه الإنفاق","outlook":"توقع الإنفاق الشهري"},
+  "Profile":{"title":"ملفي الشخصي","edit":"تعديل الملف الشخصي","country":"البلد","language":"اللغة","currency":"العملة المفضلة","timezone":"المنطقة الزمنية","email":"البريد الإلكتروني","phone":"رقم الهاتف"}
+}

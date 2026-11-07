@@ -1,0 +1,10 @@
+{
+  "Brand":{"name":"Splitmate","tagline":"Dinheiro partilhado. Mais simples."},
+  "Navigation":{"overview":"Visão geral","groups":"Grupos e viagens","expenses":"Despesas","balances":"Saldos","settlements":"Acertos","activity":"Atividade","insights":"Análises","profile":"O meu perfil"},
+  "Common":{"save":"Guardar","cancel":"Cancelar","edit":"Editar","delete":"Eliminar","search":"Pesquisar","loading":"A carregar...","error":"Ocorreu um erro","retry":"Tentar novamente","add":"Adicionar","close":"Fechar"},
+  "Dashboard":{"welcome":"O seu dinheiro, melhor partilhado.","subtitle":"Veja o que acontece com as suas despesas partilhadas.","netBalance":"Saldo líquido","totalSpending":"Despesas totais","youPaid":"Pagou","yourShare":"A sua parte","recentExpenses":"Despesas recentes","yourGroups":"Os seus grupos","transactions":"Transações"},
+  "Groups":{"title":"Grupos e viagens","create":"Criar grupo","members":"Membros do grupo","destination":"Destino ou localização","description":"Descrição do grupo"},
+  "Expenses":{"title":"Despesas","add":"Adicionar despesa","payer":"Pago por","participants":"Participantes","amount":"Valor","category":"Categoria","date":"Data"},
+  "Insights":{"title":"Análises financeiras","distribution":"Distribuição das despesas","groupSpending":"Despesas do grupo","trend":"Tendência de despesas","outlook":"Previsão mensal"},
+  "Profile":{"title":"O meu perfil","edit":"Editar perfil","country":"País","language":"Idioma","currency":"Moeda preferida","timezone":"Fuso horário","email":"Endereço de e-mail","phone":"Telemóvel"}
+}
