@@ -531,6 +531,4 @@ No license has been specified yet. Until a license is added to the repository, u
 **Splitmate — Share expenses. Stay balanced.**
 """
 
-path = Path("/mnt/data/README.md")
-path.write_text(readme, encoding="utf-8")
-print(f"Created {path} ({path.stat().st_size:,} bytes)")
+
